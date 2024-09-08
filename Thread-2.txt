@@ -1,0 +1,6 @@
+0 : I am thread 2
+1 : I am thread 2
+2 : I am thread 2
+3 : I am thread 2
+4 : I am thread 2
+5 : I am thread 2
